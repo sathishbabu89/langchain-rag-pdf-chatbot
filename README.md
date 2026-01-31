@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/sathishbabu89/langchain-rag-pdf-chatbot]([https://github.com/yourusername/rag-pdf-chatbot](https://github.com/sathishbabu89/langchain-rag-pdf-chatbot))
+Project Link: [https://github.com/sathishbabu89/langchain-rag-pdf-chatbot](https://github.com/sathishbabu89/langchain-rag-pdf-chatbot)
 
 ---
 
